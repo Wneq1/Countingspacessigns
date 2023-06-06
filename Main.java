@@ -5,8 +5,8 @@ class Main {
     System.out.println("String"+ string);
 
 char findChar = ' ';
-    int count =0;
-
+    int count =0; 
+    
     for(int i =0; i<string.length();i++){
 if(string.charAt(i)==findChar){
   count ++;
